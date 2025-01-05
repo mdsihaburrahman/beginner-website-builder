@@ -11,13 +11,14 @@
     text-align: justify;
     box-shadow: 10px 10px 20px blueviolet;
     font-family: 'Times New Roman', Times, serif;
+    
 }
 h3{
-    font-size: 30px;
+    font-size: 35px;
     /* text-decoration: overline; */
 }
 .header{
-    height: 768px;
+    height: 500px;
     /* width: 1024px; */
     /* background-image: url('webs.jpg'); */
     /* background-size: cover; */
@@ -31,4 +32,8 @@ h3{
 }
 .bk{
     background-color: blue;
+}
+#gg{
+    font-style: italic;
+
 }
